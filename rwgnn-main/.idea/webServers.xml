@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="81b32f0f-6693-4bab-87ad-910547c9d2fd" name="ailaw" url="http://172.16.49.201">
+        <fileTransfer host="172.16.49.201" port="22" rootFolder="/home/ailaw/disk/hjq/rwgnn" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
